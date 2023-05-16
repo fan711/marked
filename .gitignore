@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 .vercel
 node_modules/
 test/compiled_tests
